@@ -1,3 +1,5 @@
 <template>
   <HelloWorld />
+
+  <BaseComponent />
 </template>
